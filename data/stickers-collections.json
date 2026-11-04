@@ -1,8 +1,74 @@
 [
-  {"id":"cha","name":"El chañar y su paisaje","description":"Árboles, flora, fauna y bardas.","status":"planned"},
-  {"id":"fru","name":"Chacras y cosechas","description":"Frutas, acequias y vida rural.","status":"planned"},
-  {"id":"rio","name":"Río Neuquén","description":"Orillas, agua y naturaleza.","status":"planned"},
-  {"id":"lug","name":"Mi lugar, mi pueblo","description":"Rincones y símbolos cotidianos.","status":"planned"},
-  {"id":"vin","name":"Vino y dinosaurios","description":"Territorio, producción y memoria.","status":"planned"},
-  {"id":"hum","name":"Humor chañarense","description":"Guiños locales con identidad.","status":"planned"}
+  {
+    "id": "chañar",
+    "name": "El árbol que nos nombra",
+    "alt": "Ilustración vectorial de un árbol chañar con frutos dorados",
+    "description": "Una interpretación gráfica del árbol que da nombre a nuestra localidad.",
+    "label": "Flora local",
+    "group": "paisaje",
+    "file": "assets/stickers/chañar.svg"
+  },
+  {
+    "id": "barda",
+    "name": "Bardas del valle",
+    "alt": "Ilustración de bardas, sol y río",
+    "description": "Colores cálidos inspirados en el paisaje del valle.",
+    "label": "Paisaje",
+    "group": "paisaje",
+    "file": "assets/stickers/barda.svg"
+  },
+  {
+    "id": "pelon",
+    "name": "Fiesta del Pelón",
+    "alt": "Ilustración de un pelón o durazno",
+    "description": "Un guiño a una celebración ligada a la historia productiva local.",
+    "label": "Fruticultura",
+    "group": "chacra",
+    "file": "assets/stickers/pelon.svg"
+  },
+  {
+    "id": "acequia",
+    "name": "Agüita de acequia",
+    "alt": "Ilustración de una gota de agua sobre líneas de acequia",
+    "description": "Un pequeño homenaje al riego que transforma el paisaje.",
+    "label": "Chacras",
+    "group": "chacra",
+    "file": "assets/stickers/acequia.svg"
+  },
+  {
+    "id": "rio",
+    "name": "Río Neuquén",
+    "alt": "Ilustración de ondas de agua",
+    "description": "El río como paisaje, encuentro y parte de la vida del valle.",
+    "label": "Naturaleza",
+    "group": "paisaje",
+    "file": "assets/stickers/rio.svg"
+  },
+  {
+    "id": "uva",
+    "name": "Entre viñas",
+    "alt": "Ilustración de un racimo de uvas",
+    "description": "Un motivo inspirado en la vitivinicultura regional.",
+    "label": "Producción",
+    "group": "chacra",
+    "file": "assets/stickers/uva.svg"
+  },
+  {
+    "id": "dino",
+    "name": "Un vecino de 75 millones de años",
+    "alt": "Ilustración original de un dinosaurio verde",
+    "description": "Inspirado en la presencia paleontológica local; no es una reconstrucción científica exacta.",
+    "label": "Paleontología",
+    "group": "paleo",
+    "file": "assets/stickers/dino.svg"
+  },
+  {
+    "id": "mate",
+    "name": "Un mate mirando las bardas",
+    "alt": "Ilustración de un mate y bombilla",
+    "description": "Una escena cotidiana para llevar un poquito de casa a todas partes.",
+    "label": "Vida cotidiana",
+    "group": "cultura",
+    "file": "assets/stickers/mate.svg"
+  }
 ]
