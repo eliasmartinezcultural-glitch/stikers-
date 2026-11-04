@@ -1,33 +1,26 @@
 # Ocarina · San Patricio del Chañar
 
-Plataforma digital independiente dedicada a diseños originales, cultura, historia y materiales vinculados con San Patricio del Chañar, Neuquén.
+Plataforma digital independiente para diseños originales y contenidos de consulta vinculados con San Patricio del Chañar, Neuquén.
 
-## Espacios del proyecto
-
-- **Ocarina Stickers:** catálogo de diseños digitales originales listos para descargar e imprimir. No incluye fabricación ni envío físico.
-- **El Pasillo:** biblioteca digital local proyectada para libros, lecturas, documentos, informes, mapas, cultura e imprimibles.
+## Espacios
+- **Ocarina Stickers:** primera colección de 8 ilustraciones vectoriales originales en SVG, descargables sin cuenta. No incluye impresión física.
+- **El Pasillo:** biblioteca temática con seis puertas de lectura, historia, mapas, documentos, educación y patrimonio. Esta edición inicial enlaza fuentes públicas; no republica obras ajenas.
 
 ## Estructura
-
-- `index.html`: portada general.
-- `stickers/`: tienda y catálogo de diseños.
-- `pasillo/`: futura biblioteca digital.
+- `index.html`: portada.
+- `stickers/`: catálogo descargable.
+- `pasillo/`: biblioteca de consulta y fuentes.
+- `assets/stickers/`: ilustraciones SVG originales.
 - `assets/css/`: estilos compartidos.
-- `assets/js/`: funcionalidades compartidas futuras.
-- `data/`: catálogos y categorías independientes.
+- `assets/js/stickers.js`: carga y filtrado del catálogo.
+- `data/`: catálogo JSON.
 
-## Principios editoriales y legales
-
-1. Identificar autoría, procedencia y licencia de cada material.
-2. No ofrecer para descarga obras protegidas sin permiso o licencia que lo permita.
-3. Diferenciar claramente obras originales de Ocarina y materiales de terceros.
-4. No publicar fotografías o documentos de referencia como recursos descargables sin verificar derechos.
-5. Mantener la consulta y el acceso sencillos, sin cuentas ni base de datos.
-
-## Publicación
-
-Sitio estático compatible con GitHub Pages. No requiere servidor, base de datos ni instalación de dependencias. Los catálogos se mantendrán en archivos JSON.
+## Criterios
+1. Autoría y procedencia visibles.
+2. No ofrecer descargas de obras protegidas sin permiso.
+3. Diferenciar ilustraciones originales de Ocarina de materiales externos.
+4. Los enlaces externos son fuentes de consulta, no autorización para copiar o redistribuir.
+5. Sin cuentas, pagos obligatorios, backend ni dependencias de instalación.
 
 ## Estado
-
-Base inicial de navegación y arquitectura creada. Los catálogos de productos y documentos todavía no contienen recursos descargables publicados.
+Primera entrega: 8 stickers SVG originales y 6 secciones temáticas con fuentes de consulta. Los materiales imprimibles originales y la ampliación documental quedan para próximas etapas.
