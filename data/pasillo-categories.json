@@ -1,0 +1,8 @@
+[
+  {"id":"libros","name":"Libros y lecturas","description":"Libros, cuentos, artículos y publicaciones."},
+  {"id":"historia","name":"Historia local","description":"Archivos, cronologías y testimonios."},
+  {"id":"mapas","name":"Mapas y territorio","description":"Cartografía, planos y geografía."},
+  {"id":"informes","name":"Informes y documentos","description":"Investigaciones y documentos públicos."},
+  {"id":"imprimibles","name":"Imprimibles y educación","description":"Fichas, láminas y actividades."},
+  {"id":"cultura","name":"Cultura y patrimonio","description":"Fiestas, costumbres y patrimonio local."}
+]
