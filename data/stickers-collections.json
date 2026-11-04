@@ -1,0 +1,8 @@
+[
+  {"id":"cha","name":"El chañar y su paisaje","description":"Árboles, flora, fauna y bardas.","status":"planned"},
+  {"id":"fru","name":"Chacras y cosechas","description":"Frutas, acequias y vida rural.","status":"planned"},
+  {"id":"rio","name":"Río Neuquén","description":"Orillas, agua y naturaleza.","status":"planned"},
+  {"id":"lug","name":"Mi lugar, mi pueblo","description":"Rincones y símbolos cotidianos.","status":"planned"},
+  {"id":"vin","name":"Vino y dinosaurios","description":"Territorio, producción y memoria.","status":"planned"},
+  {"id":"hum","name":"Humor chañarense","description":"Guiños locales con identidad.","status":"planned"}
+]
